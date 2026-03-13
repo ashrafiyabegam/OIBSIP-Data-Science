@@ -28,7 +28,7 @@ In this project, a machine learning model is built to classify iris flowers into
 
 ---
 
-## Task 2: Unemployment Analysis
+## Task 2: Unemployment Analysis with python
 
 This project focuses on analyzing unemployment trends using a dataset that highlights the **impact of Covid-19 on unemployment rates in India**.
 
@@ -48,7 +48,7 @@ This project focuses on analyzing unemployment trends using a dataset that highl
 
 ---
 
-## Task 3: Car Price Prediction
+## Task 3: Car Price Prediction with Machine Learning
 
 In this project, a machine learning model is developed to **predict the selling price of cars** based on features such as fuel type, transmission, kilometers driven, and car age.
 
@@ -69,7 +69,7 @@ In this project, a machine learning model is developed to **predict the selling 
 
 ---
 
-## Task 4: Email Spam Detection
+## Task 4: Email Spam Detection with machine learning
 
 This project involves building a **machine learning model to classify emails as spam or non-spam** using natural language processing techniques.
 
@@ -89,7 +89,7 @@ This project involves building a **machine learning model to classify emails as 
 
 ---
 
-## Task 5: Sales Prediction using Machine Learning
+## Task 5: Sales Prediction using Python
 
 This project predicts product sales based on **advertising budgets across different platforms such as TV, Radio, and Newspaper**.
 
